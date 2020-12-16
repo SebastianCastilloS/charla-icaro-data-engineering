@@ -45,11 +45,11 @@ python3 model.py
 4) Correr script que levanta web server con página, el cual genera el output con el link al localhost.
 ```bash
 # Con el ambiente virtual
-python model.py
+python app.py
 ```
 ```bash
 # Sin el ambiente virtual
-python3 model.py
+python3 app.py
 ```
 ```bash
 # Output del comando
