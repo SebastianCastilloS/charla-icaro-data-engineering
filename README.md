@@ -18,7 +18,7 @@ Vamos a correr un script que generará un modelo predictivo y lo guardará en un
 Bajen una copia del código alojado en este repositorio (pueden forkear el repositorio o bajarlo como un zip) y sigan los siguientes pasos adentro de la carpeta bajada.
 
 
-0) Opcional para virtualizar: ejecutar el siguiente comando para crear un ambiente virtual de Python
+1) Opcional para virtualizar: ejecutar el siguiente comando para crear un ambiente virtual de Python
 ```Bash
 python3 -m venv icaro
 ```
