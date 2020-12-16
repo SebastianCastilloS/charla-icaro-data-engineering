@@ -26,6 +26,7 @@ python3 -m venv icaro
 
 ```bash
 # Con el ambiente virtual
+source icaro/bin/activate 
 pip install -r requirement.txt
 ```
 ```bash
